@@ -10,4 +10,4 @@ cred <- cred_env("IBPAD",
 push(repo_bare, name = "originssh", refspec = 'refs/heads/master', credentials = cred)
 push('/home/ibpad/Desktop/AMBEV/fotos_thumbnail', 'originssh')
 
-#### testeee
+#### testeee nnnnnn
